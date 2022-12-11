@@ -38,7 +38,6 @@ Using Sage Continuum's Sage Data Client API for Determing Population Density in 
 
 The Systems Project uses Sage Data API Client to query traffic state and object counts in order to train a XGB Classifer to classify the following  5 Wild Nodes: W02C, W07A, W07B, W026, W079. Since the latest registration for these nodes occurred in May 2022, the Sage API client was queried for 05/22 - 12/22. The start time was calculated Time - 5/22/22 at 0:0:0 or 4,912 hours.  
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- GETTING STARTED -->
