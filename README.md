@@ -1,4 +1,6 @@
 # 705.603 - AI Enabled Systems: Systems Project
+Using Sage Continuum's Sage Data Client API for Determing Population Density in the Chicago Loop
+
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
@@ -77,10 +79,32 @@ Project Link: [https://github.com/gonellcl1/705.603_claribelgonell](https://gith
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+## Resources
 
 * [othneildrew](https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md)
-* []()
-* []()
+* [Object Counter](https://github.com/waggle-sensor/plugin-objectcounter)
+* [Traffic State](https://portal.sagecontinuum.org/apps/app/seonghapark/traffic-state)
+* [YOLOv7: The Most Powerful Object Detection Algorithm](https://viso.ai/deep-learning/yolov7-guide/)
+* [Array of Things](https://arrayofthings.github.io/index.html)
+* [Hands-On Computer Science: The Array of Things Experimental Urban Instrument](https://ieeexplore.ieee.org/abstract/document/9734773)
+* [Sage Continuum](https://sagecontinuum.org/) 
+* [Sage Continuum Portal](https://portal.sagecontinuum.org/nodes) 
+* [Waggle@AI](https://docs.waggle-edge.ai/docs/about/overview)
+* [Measuring Cities with Software-Defined Sensors](https://ieeexplore.ieee.org/abstract/document/9241512)
+* [Waggle: An open sensor platform for edge computing](https://ieeexplore.ieee.org/abstract/document/7808975)
+* [Making Sense of Sensor Data: How Local Environmental Conditions Add Value to Social Science Research](https://journals.sagepub.com/doi/abs/10.1177/0894439320920601)
+* [Project Eclipse](https://www.microsoft.com/en-us/research/project/project-eclipse/)
+* [SAGE: A Software-Defined Sensor Network](https://www.anl.gov/mcs/sage-a-softwaredefined-sensor-network)
+
+
+
+
+
+
+
+
+
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
