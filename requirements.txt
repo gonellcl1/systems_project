@@ -2,4 +2,5 @@ pandas
 xgboost
 sklearn.metrics
 sklearn.model_selection
+sage-data-client
 sage_data_client
